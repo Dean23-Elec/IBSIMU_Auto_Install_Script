@@ -5,7 +5,7 @@ This script will find and install the required depencies for IBSIMU to work auto
 
 cd IBSIMU_Auto_Install_Script \
 chmod +x install_ibsimu.sh \
-./install_ibsimu.sh \
+./install_ibsimu.sh 
 
 This will then automatically install everything required for IBSIMU to function.
 After the install is completed the script will download the vlasov2d.cpp example from
